@@ -1,12 +1,11 @@
-Materi Minggu 2: Proses dan Komunikasi Antar Proses pada Sistem Terdistribusi
+## Materi Minggu 2: Proses dan Komunikasi Antar Proses pada Sistem Terdistribusi
 
-Prompt: Buatkan rangkuman materi dari modul PDF yang diberikan menggunakan bahasa Indonesia formal, jelas, ringkas, dan terstruktur. Pertahankan istilah, konsep, contoh, serta urutan pembahasan sesuai modul. Susun dalam format Markdown untuk README.md GitHub.
+**Prompt:** Buatkan rangkuman materi dari modul PDF yang diberikan menggunakan bahasa Indonesia formal, jelas, ringkas, dan terstruktur. Pertahankan istilah, konsep, contoh, serta urutan pembahasan sesuai modul. Susun dalam format Markdown untuk README.md GitHub.
 
-AI yang digunakan: ChatGPT (GPT-6).
+**AI yang digunakan:** ChatGPT (GPT-6).
 
-Bagian yang disesuaikan dari keluaran prompt ada pada: Penyusunan struktur pembahasan, pemilihan kalimat, dan format Markdown agar sesuai dengan template tugas. Materi utama dan istilah tetap mengacu pada modul.
+**Bagian yang disesuaikan dari keluaran prompt ada pada:** Penyusunan struktur pembahasan, pemilihan kalimat, dan format Markdown agar sesuai dengan template tugas. Materi utama dan istilah tetap mengacu pada modul.
 
-# Materi Minggu 2: Proses dan Komunikasi Antar Proses pada Sistem Terdistribusi
 
 ## 1. Pengertian Proses
 
