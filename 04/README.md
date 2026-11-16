@@ -1,8 +1,6 @@
-# Materi Minggu 4: Konsistensi dan Replikasi pada Sistem Terdistribusi
+## Materi Minggu 4: Konsistensi dan Replikasi pada Sistem Terdistribusi
 
-**Prompt:**
-
-Buatkan rangkuman materi berdasarkan modul 4 berjudul *Konsistensi dan Replikasi pada Sistem Terdistribusi*. Rangkum seluruh materi sesuai urutan pembahasan dalam modul, gunakan bahasa Indonesia yang formal, jelas, dan mudah dipahami. Pertahankan istilah teknis, konsep, contoh, serta penjelasan penting yang terdapat dalam modul. Susun hasilnya menggunakan format Markdown agar dapat dimasukkan ke dalam file README.md di GitHub.
+**Prompt:** Buatkan rangkuman materi berdasarkan modul 4 berjudul *Konsistensi dan Replikasi pada Sistem Terdistribusi*. Rangkum seluruh materi sesuai urutan pembahasan dalam modul, gunakan bahasa Indonesia yang formal, jelas, dan mudah dipahami. Pertahankan istilah teknis, konsep, contoh, serta penjelasan penting yang terdapat dalam modul. Susun hasilnya menggunakan format Markdown agar dapat dimasukkan ke dalam file README.md di GitHub.
 
 **AI yang digunakan:** ChatGPT (GPT-6)
 
