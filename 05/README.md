@@ -1,17 +1,10 @@
-# Materi Minggu 5: Fault Tolerance
+## Materi Minggu 5: Fault Tolerance
 
-**Prompt:**
-
-Buatkan rangkuman materi berdasarkan modul 5 berjudul *Fault Tolerance*. Rangkum seluruh materi sesuai urutan pembahasan dalam modul, gunakan bahasa Indonesia yang formal, jelas, dan mudah dipahami. Pertahankan istilah teknis, konsep, contoh, serta penjelasan penting yang terdapat dalam modul. Susun hasilnya menggunakan format Markdown agar dapat dimasukkan ke dalam file README.md di GitHub.
+**Prompt:** Buatkan rangkuman materi berdasarkan modul 5 berjudul Fault Tolerance. Rangkum seluruh materi sesuai urutan pembahasan dalam modul, gunakan bahasa Indonesia yang formal, jelas, dan mudah dipahami. Pertahankan istilah teknis, konsep, contoh, serta penjelasan penting yang terdapat dalam modul. Susun hasilnya menggunakan format Markdown agar dapat dimasukkan ke dalam file README.md di GitHub.
 
 **AI yang digunakan:** ChatGPT (GPT-6)
 
-**Bagian yang disesuaikan dari keluaran prompt ada pada:**
-- Penyusunan struktur materi agar lebih teratur dan mudah dibaca.
-- Penyederhanaan beberapa kalimat tanpa mengubah inti pembahasan.
-- Penggunaan format Markdown berupa judul, subjudul, dan poin-poin.
-
----
+**Bagian yang disesuaikan dari keluaran prompt ada pada:** Penyusunan struktur materi agar lebih teratur dan mudah dibaca, penyederhanaan beberapa kalimat tanpa mengubah inti pembahasan, dan penggunaan format Markdown berupa judul, subjudul, dan poin-poin.
 
 ## 1. Pengertian Fault Tolerance
 
