@@ -4,12 +4,7 @@
 
 **AI yang digunakan:** ChatGPT (GPT-6)
 
-**Bagian yang disesuaikan dari keluaran prompt ada pada:**
-- Penyusunan struktur materi agar lebih teratur dan mudah dibaca.
-- Penyederhanaan beberapa kalimat tanpa mengubah inti pembahasan.
-- Penggunaan format Markdown berupa judul, subjudul, dan poin-poin.
-
----
+**Bagian yang disesuaikan dari keluaran prompt ada pada:** Penyusunan struktur materi agar lebih teratur dan mudah dibaca, penyederhanaan beberapa kalimat tanpa mengubah inti pembahasan dan penggunaan format Markdown berupa judul, subjudul, dan poin-poin.
 
 ## 1. Pengertian Konsistensi pada Sistem Terdistribusi
 
